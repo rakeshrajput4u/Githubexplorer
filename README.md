@@ -27,7 +27,7 @@ GitHub REST API
 /githubexplorer ├── index.html ├── style.css ├── script.js └── README.md
 
 💡 Getting Started
-To run this project locally:https://githubexplorer-kappa.vercel.app/
+To run this project locally: https://githubexplorer-kappa.vercel.app/
 
 Clone the repo
-git clone 
+git clone: https://github.com/rakeshrajput4u/Githubexplorer
